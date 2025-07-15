@@ -11,7 +11,7 @@
     "native-base": "^2.1.2",
     "npm": "^4.6.1",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.43.4",
+    "react-native": "0.69.12",
     "react-native-drawer-menu": "^0.1.0",
     "react-native-easy-grid": "^0.1.8",
     "react-native-easy-gridview": "^1.0.1",
